@@ -1,0 +1,56 @@
+{
+  "uuid": "b38e3446-8b75-44d5-91ad-33387886baf4",
+  "historyId": "dacd29516f95324c01218cd797bba6ad",
+  "testCaseId": "b85882d7053cb26686f20d63da1818ae",
+  "fullName": "LabSession:LabSession.SeleniumC_.TwoScreenParallelExecution.testcase1()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#13"
+    },
+    {
+      "name": "host",
+      "value": "AUTOGG5Q7IK5PKI"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "LabSession.SeleniumC_"
+    },
+    {
+      "name": "testMethod",
+      "value": "testcase1"
+    },
+    {
+      "name": "testClass",
+      "value": "TwoScreenParallelExecution"
+    },
+    {
+      "name": "tag",
+      "value": "Regression"
+    }
+  ],
+  "links": [],
+  "name": "testcase1",
+  "status": "broken",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "OpenQA.Selenium.NoSuchWindowException : no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: MicrosoftEdge=131.0.2903.99)\r\nTearDown : OpenQA.Selenium.NoSuchWindowException : no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: MicrosoftEdge=131.0.2903.99)",
+    "trace": "   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)\r\n   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.Window.Maximize()\r\n   at LabSession.SeleniumC_.TwoScreenParallelExecution.testcase1() in C:\\Users\\sousu\\source\\repos\\LabSession\\LabSession\\SeleniumC#\\TwoScreenParallelExecution.cs:line 31\r\n   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)\r\n   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)\r\n--TearDown\r\n   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)\r\n   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebDriver.Close()\r\n   at LabSession.SeleniumC_.TwoScreenParallelExecution.Closebrowser() in C:\\Users\\sousu\\source\\repos\\LabSession\\LabSession\\SeleniumC#\\TwoScreenParallelExecution.cs:line 87\r\n   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)\r\n   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1734593386633,
+  "stop": 1734593396247
+}

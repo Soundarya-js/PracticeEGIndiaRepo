@@ -1,0 +1,66 @@
+{
+  "uuid": "da56e94c-0c39-4de8-a1f6-22a54e856e44",
+  "historyId": "a8fbbce0dd2f9a01bbc2b488ab0170c1",
+  "testCaseId": "78c266ce4c0d9973b418a8f68aeb5edd",
+  "fullName": "LabSession:registrationExample.NUnitTests.NUnitExample.userreg(System.String)",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOGG5Q7IK5PKI"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "registrationExample.NUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "userreg"
+    },
+    {
+      "name": "testClass",
+      "value": "NUnitExample"
+    },
+    {
+      "name": "tag",
+      "value": "Manager"
+    },
+    {
+      "name": "tag",
+      "value": "BankXYZ"
+    }
+  ],
+  "links": [],
+  "name": "userreg(\"Soundarya\")",
+  "status": "passed",
+  "stage": "finished",
+  "description": "This is a Bank Registration Website\n",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "7823e3eb-0c19-48a1-90cb-ebaf487b3a12-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [
+    {
+      "name": "username",
+      "value": "\"Soundarya\"",
+      "excluded": false
+    }
+  ],
+  "start": 1734331798389,
+  "stop": 1734331798396
+}

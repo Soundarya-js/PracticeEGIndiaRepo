@@ -1,0 +1,12 @@
+{
+  "uuid": "47f58395-dbb9-4989-aa05-d314ad3404a0",
+  "name": "LabSession.SeleniumC_.ExplictwaitusinguploadEg.testcase2",
+  "children": [
+    "03675ed2-7e2c-4d83-a84f-c4a02430e26d"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734592785839,
+  "stop": 1734592816876
+}

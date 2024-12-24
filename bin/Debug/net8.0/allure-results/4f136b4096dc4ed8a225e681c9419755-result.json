@@ -1,0 +1,55 @@
+{
+  "uuid": "86aa603f-30d8-46cb-9be3-78fb3aa1afa2",
+  "historyId": "c27eaed6351ccc77694ddb438f5f8c0a",
+  "testCaseId": "cabcf9dec650dd141e72cb0b6368a9b9",
+  "fullName": "LabSession:LabSession.SeleniumC_.BrowserCommands.testcase1()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOGG5Q7IK5PKI"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "LabSession.SeleniumC_"
+    },
+    {
+      "name": "testMethod",
+      "value": "testcase1"
+    },
+    {
+      "name": "testClass",
+      "value": "BrowserCommands"
+    },
+    {
+      "name": "tag",
+      "value": "Regression"
+    }
+  ],
+  "links": [],
+  "name": "testcase1",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "42f7cbba-eab5-43db-815a-3486b868f1bb-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1734593017811,
+  "stop": 1734593027078
+}

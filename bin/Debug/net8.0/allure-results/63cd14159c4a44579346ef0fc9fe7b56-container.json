@@ -1,0 +1,12 @@
+{
+  "uuid": "ebc425fa-d34e-4a61-933f-0c309bc3f205",
+  "name": "LabSession.SeleniumC_.DragandDrop.testcase1",
+  "children": [
+    "c49f6f48-1ef7-42ef-9eab-0596f2379581"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734593027111,
+  "stop": 1734593054120
+}

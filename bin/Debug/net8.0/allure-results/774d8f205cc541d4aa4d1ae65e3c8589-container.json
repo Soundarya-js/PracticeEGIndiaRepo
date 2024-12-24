@@ -1,0 +1,12 @@
+{
+  "uuid": "2e648df1-c033-408b-8f75-44aa62508e86",
+  "name": "LabSession.SeleniumC_.TwoScreenParallelExecution.testcase1",
+  "children": [
+    "b38e3446-8b75-44d5-91ad-33387886baf4"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734593386631,
+  "stop": 1734593396283
+}

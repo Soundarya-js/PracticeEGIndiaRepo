@@ -1,0 +1,13 @@
+{
+  "uuid": "3b7c59de-54e9-4a16-8d54-cd5b890bfb83",
+  "name": "registrationExample.NUnitTests.NUnitExample",
+  "children": [
+    "2c9d07a6-12fc-4411-b9c6-fc93c4926867",
+    "c2af2c2f-3895-4290-bf2e-5601c25c1a54"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734075514500,
+  "stop": 1734075514602
+}

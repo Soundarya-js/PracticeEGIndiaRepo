@@ -1,0 +1,12 @@
+{
+  "uuid": "99929222-34fe-4a25-88b7-5732e9a4ca3b",
+  "name": "registrationExample.NUnitTests.NUnitExample.CustomerLogin(\"user2\")",
+  "children": [
+    "20a29ca4-2014-405d-913d-a192293b1f7e"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734428725974,
+  "stop": 1734428725998
+}

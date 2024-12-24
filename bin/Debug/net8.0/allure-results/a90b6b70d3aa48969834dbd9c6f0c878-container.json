@@ -1,0 +1,12 @@
+{
+  "uuid": "68721675-27ea-4e5f-a86e-d71fdf3cc3c0",
+  "name": "LabSession.SeleniumC_.FileDownload",
+  "children": [
+    "87138722-68db-4b8e-8818-35a26cc74d4c"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734592482085,
+  "stop": 1734592505348
+}

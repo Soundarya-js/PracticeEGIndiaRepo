@@ -1,0 +1,49 @@
+{
+  "uuid": "0b177550-c4e6-441f-8284-bad941e40e49",
+  "historyId": "ec49bd73551b67f50a6f9d6110e0563b",
+  "testCaseId": "d36be0c4e8685449b7f099ee3710cd17",
+  "fullName": "LabSession:LabSession.SeleniumC_.DragandDrop.testcase1()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOGG5Q7IK5PKI"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "LabSession.SeleniumC_"
+    },
+    {
+      "name": "testMethod",
+      "value": "testcase1"
+    },
+    {
+      "name": "testClass",
+      "value": "DragandDrop"
+    },
+    {
+      "name": "tag",
+      "value": "Regression"
+    }
+  ],
+  "links": [],
+  "name": "testcase1",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1734591294094,
+  "stop": 1734591321490
+}

@@ -1,0 +1,56 @@
+{
+  "uuid": "7e31f8b1-4f30-4269-93dd-9d2fb529f271",
+  "historyId": "fbf42c7c3d2529ac38e0a09b23e0b863",
+  "testCaseId": "478fc90ff333e0e95e4435ba63bab24c",
+  "fullName": "LabSession:LabSession.SeleniumC_.TwoScreenParallelExecution.testcase2()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#1"
+    },
+    {
+      "name": "host",
+      "value": "AUTOGG5Q7IK5PKI"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "LabSession.SeleniumC_"
+    },
+    {
+      "name": "testMethod",
+      "value": "testcase2"
+    },
+    {
+      "name": "testClass",
+      "value": "TwoScreenParallelExecution"
+    },
+    {
+      "name": "tag",
+      "value": "Regression"
+    }
+  ],
+  "links": [],
+  "name": "testcase2",
+  "status": "broken",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "System.ObjectDisposedException : Cannot access a disposed object.\r\nObject name: 'System.Net.Http.HttpClient'.\r\nTearDown : System.ObjectDisposedException : Cannot access a disposed object.\r\nObject name: 'System.Net.Http.HttpClient'.",
+    "trace": "   at System.Net.Http.HttpClient.CheckRequestBeforeSend(HttpRequestMessage request)\r\n   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)\r\n   at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)\r\n   at OpenQA.Selenium.Remote.HttpCommandExecutor.ExecuteAsync(Command commandToExecute)\r\n   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.ExecuteAsync(Command commandToExecute)\r\n   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebElement.Click()\r\n   at LabSession.SeleniumC_.TwoScreenParallelExecution.testcase2() in C:\\Users\\sousu\\source\\repos\\LabSession\\LabSession\\SeleniumC#\\TwoScreenParallelExecution.cs:line 76\r\n   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)\r\n   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)\r\n--TearDown\r\n   at System.Net.Http.HttpClient.CheckRequestBeforeSend(HttpRequestMessage request)\r\n   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)\r\n   at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)\r\n   at OpenQA.Selenium.Remote.HttpCommandExecutor.ExecuteAsync(Command commandToExecute)\r\n   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.ExecuteAsync(Command commandToExecute)\r\n   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebDriver.Close()\r\n   at LabSession.SeleniumC_.TwoScreenParallelExecution.Closebrowser() in C:\\Users\\sousu\\source\\repos\\LabSession\\LabSession\\SeleniumC#\\TwoScreenParallelExecution.cs:line 88\r\n   at InvokeStub_TwoScreenParallelExecution.Closebrowser(Object, Object, IntPtr*)\r\n   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1734593239601,
+  "stop": 1734593266409
+}

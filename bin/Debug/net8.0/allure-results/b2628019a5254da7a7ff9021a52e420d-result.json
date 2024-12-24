@@ -1,0 +1,56 @@
+{
+  "uuid": "e9c18b12-d8fd-4502-97d7-924b351c8324",
+  "historyId": "00b63a23f1eb85106ae4fefa9245e7d3",
+  "testCaseId": "10bf9fb0fa0bde31323200f89e88cd3c",
+  "fullName": "LabSession:LabSession.SeleniumC_.ExplictwaitusinguploadEg.testcase1()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#11"
+    },
+    {
+      "name": "host",
+      "value": "AUTOGG5Q7IK5PKI"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "LabSession.SeleniumC_"
+    },
+    {
+      "name": "testMethod",
+      "value": "testcase1"
+    },
+    {
+      "name": "testClass",
+      "value": "ExplictwaitusinguploadEg"
+    },
+    {
+      "name": "tag",
+      "value": "Regression"
+    }
+  ],
+  "links": [],
+  "name": "testcase1",
+  "status": "broken",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "OpenQA.Selenium.WebDriverArgumentException : File not found: C:\\Users\\Harsha Patil\\Desktop\\manu\\data.png",
+    "trace": "   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)\r\n   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebElement.SendKeys(String text)\r\n   at LabSession.SeleniumC_.ExplictwaitusinguploadEg.testcase1() in C:\\Users\\sousu\\source\\repos\\LabSession\\LabSession\\SeleniumC#\\ExplictwaitusinguploadEg.cs:line 34\r\n   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)\r\n   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1734592635719,
+  "stop": 1734592660777
+}

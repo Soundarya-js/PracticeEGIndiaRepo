@@ -1,0 +1,12 @@
+{
+  "uuid": "1f93c1d9-614f-43f1-ac0b-2e93bc561d62",
+  "name": "registrationExample.NUnitTests.NUnitExample.userreg(\"Soundarya\")",
+  "children": [
+    "da56e94c-0c39-4de8-a1f6-22a54e856e44"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734331798389,
+  "stop": 1734331798399
+}

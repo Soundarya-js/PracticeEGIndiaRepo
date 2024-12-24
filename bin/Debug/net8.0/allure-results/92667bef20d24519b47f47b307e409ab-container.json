@@ -1,0 +1,12 @@
+{
+  "uuid": "5dc6a344-04b6-42ea-b687-31e17a5bf028",
+  "name": "LabSession.SeleniumC_.DropDown.testcase1",
+  "children": [
+    "94711141-8b84-4861-a312-ef85909e8e63"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734595140263,
+  "stop": 1734595140608
+}
